@@ -179,9 +179,11 @@ input[type=submit]:hover {
     </div>
     <div class="col">
       <a href="#" style="color:white" class="btn">Forgot password?</a>
+      <a href="#" style="color:white" class="btn">Flipkart</a>
+
     </div>
   </div>
 </div>
 
 </body>
-</html>
+i</html>
